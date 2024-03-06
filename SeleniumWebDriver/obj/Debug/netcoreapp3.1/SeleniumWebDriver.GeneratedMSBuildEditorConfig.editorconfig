@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SeleniumWebDriver
+build_property.ProjectDir = /Users/thomas/Documents/m2i/bdd/SeleniumWebDriver/SeleniumWebDriver/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
